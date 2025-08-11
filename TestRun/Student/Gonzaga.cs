@@ -9,9 +9,10 @@ namespace TestRun.Student
     internal class Gonzaga : Student
     {
         public override void Run()
-        {   
+        {
             // remainder to use
             // int, float, string, bool, and console printing
+            // test
             int age = 1000;
             float weight = 60.3f;
             string name = "Gonzaga";
